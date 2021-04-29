@@ -8,6 +8,6 @@ So these library will help your java Application to understand the methods you c
 Also i'm attaching all the pacakage and the library file along with the example of my QR Code also the image of the message it will pop when you'll scan it by same 3rd party application.
 
 
- <img align="center" width="200" height="200"alt="GIF" src="https://raw.githubusercontent.com/anantsaini222/QR-Quick-Response-Code-Generation-in-Java-using-API/main/MyChannel.jpg" />
+ <img align="center" width="200" height="200" alt="GIF" src="https://raw.githubusercontent.com/anantsaini222/QR-Quick-Response-Code-Generation-in-Java-using-API/main/MyChannel.jpg" />
  
-  <img align="center" width="300" height="500" alt="GIF" src="https://raw.githubusercontent.com/anantsaini222/QR-Quick-Response-Code-Generation-in-Java-using-API/main/Scanned_QRCode.jpeg" />
+  <img align="center" width="100" height="400" alt="GIF" src="https://raw.githubusercontent.com/anantsaini222/QR-Quick-Response-Code-Generation-in-Java-using-API/main/Scanned_QRCode.jpeg" />
