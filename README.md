@@ -9,3 +9,5 @@ Also i'm attaching all the pacakage and the library file along with the example 
 
 
  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/anantsaini222/QR-Quick-Response-Code-Generation-in-Java-using-API/main/MyChannel.jpg" />
+ 
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/anantsaini222/QR-Quick-Response-Code-Generation-in-Java-using-API/main/Scanned_QRCode.jpeg" />
